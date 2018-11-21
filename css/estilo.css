@@ -1,3 +1,13 @@
 a.log{
     margin-right: 30px
 }
+
+div.footer1{
+    background: rgba(8, 104, 59, 0.904);
+}
+div.footer2{
+    background: rgba(9, 83, 21, 0.979);
+}
+footer{
+    color: ghostwhite
+}
